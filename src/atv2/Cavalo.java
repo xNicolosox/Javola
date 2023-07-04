@@ -20,7 +20,7 @@ public class Cavalo extends Mamifero implements AnimalDomesticado {
 	}
 	@Override
 	public String toString() {
-		return "nome do cavalo: " + nome + ", Cor: " + cor +", idade: "+ getIdade() + ", raça: "+ getRaça();
+		return "nome do cavalo: "+ nome + ", Cor: " + cor +", idade: "+ getIdade() + ", raça: "+ getRaça();
 	}
 	@Override
 	public void levarVeterinario() {
