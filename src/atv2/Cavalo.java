@@ -24,7 +24,7 @@ public class Cavalo extends Mamifero implements AnimalDomesticado {
 	}
 	@Override
 	public void levarVeterinario() {
-		System.out.println("foi tratamento");
+		System.out.println("foi tratado");
 		
 	}
 	@Override
