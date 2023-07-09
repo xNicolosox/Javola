@@ -5,7 +5,6 @@ public class Cavalo extends Mamifero implements AnimalDomesticado {
 	private String nome;
 	
 	
-	
 	public String getCor() {
 		return cor;
 	}
@@ -24,12 +23,11 @@ public class Cavalo extends Mamifero implements AnimalDomesticado {
 	}
 	@Override
 	public void levarVeterinario() {
-		System.out.println("foi tratamento");
-		
+		System.out.println("foi tratado");
 	}
 	@Override
 	public void alimentar() {
-		System.out.println("alimatado");
+		System.out.println("alimentado");
 	}
 	
 	
