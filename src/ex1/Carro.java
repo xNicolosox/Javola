@@ -1,4 +1,4 @@
-package poo;
+package ex1;
 
 public class Carro {
 	private String marca;
