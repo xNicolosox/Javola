@@ -8,7 +8,7 @@ Repository with my study on basic java;
 the objective of this challenge is to use the concept of inheritance, having an interface to calculate the tax,
 save the products in a list and show;
 
--In ex3, it is a code simulating an rpg, wizard and warrior, they level up, attack, apredem skill and spells and is shown on the console;
+-In ex3, it is a code simulating a rpg, wizard and warrior, they level up, attack, learn skill and spells and is shown on the console;
 
 -In ex4,ex5,ex6 the objective of these codes is to manipulate a list, adding, deleting, searching, and conditioning searches;
 
