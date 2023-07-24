@@ -1,6 +1,6 @@
 package aulaprog3;
 
-public class trycatch {
+public class Trycatch {
 
 	public static void main(String[] args) {
 		int n1 = 0;
