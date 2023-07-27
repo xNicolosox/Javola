@@ -3,8 +3,8 @@ package aulaprog3;
 public class Trycatch {
 
 	public static void main(String[] args) {
-		int n1 = 0;
-		int n2 = 0;
+		int n1 = 5;
+		int n2 = 5;
 		int result;
 		
 		try {
