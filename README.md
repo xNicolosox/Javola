@@ -2,13 +2,13 @@
 Repository with my study on basic java;
 °In this repository, I put some college activities, the most important are the challenges of object-oriented programming, saved as "ex";
 
--In the ex1, it is a code where the class "carro" has several methods co m different features.
+-In the ex1, it is a code where the class "carro" has several methods with different features.
 
 -In ex2, has a code where there is a store with product books, video games,
 the objective of this challenge is to use the concept of inheritance, having an interface to calculate the tax,
 save the products in a list and show;
 
--In ex3, it is a code simulating an rpg, wizard and warrior, they level up, attack, apredem skill and spells and is shown on the console;
+-In ex3, it is a code simulating a rpg, wizard and warrior, they level up, attack, learn skill and spells and is shown on the console;
 
 -In ex4,ex5,ex6 the objective of these codes is to manipulate a list, adding, deleting, searching, and conditioning searches;
 
