@@ -13,7 +13,6 @@ public class Main {
 		carro1.frear();
 		carro1.frear();
 		carro1.desligar();
-		;
 		System.out.println(carro1.toString());
 	}
 
